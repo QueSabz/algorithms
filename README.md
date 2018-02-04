@@ -1,6 +1,6 @@
 # py-algorithms
 
-### **Why study algorithms?**
+## **Why study algorithms?**
 
 Computer scientists learn by experience. We learn by seeing others solve problems and by solving problems by ourselves. Being exposed to different problem-solving techniques and seeing how different algorithms are designed helps us to take on the next challenging problem that we are given. By considering a number of different algorithms, we can begin to develop pattern recognition so that the next time a similar problem arises, we are better able to solve it.
 
