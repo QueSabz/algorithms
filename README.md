@@ -1,4 +1,4 @@
-# py-algorithms
+# Algorithms
 
 ## **Why study algorithms?**
 
