@@ -8,7 +8,7 @@ public class exR1
 
     public static void main(String[] args)
     {
-        int x = Integer.parseInt(args[0]);
-        StdOut.println(exR1(x));
+        int n = Integer.parseInt(args[0]);
+        StdOut.println(exR1(n));
     }
 }
